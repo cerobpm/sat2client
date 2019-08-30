@@ -1,0 +1,20 @@
+{
+  "name": "accessors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^3.0.0",
+    "controller": "^1.0.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "inquirer": "^7.0.0",
+    "pg": "^7.12.1",
+    "request": "^2.88.0"
+  }
+}
