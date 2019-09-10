@@ -18,6 +18,8 @@ const Sat2 = require('./sat2')
 const sat2 = new Sat2.sat2()
 //~ const Sat2db = require('./sat2db')
 const CRUD = new Sat2.CRUD(pool)
+const config = require('config');
+
 
 program
   .version('0.0.1')
@@ -647,7 +649,7 @@ program
 
 function updrepcuant(idGrupo,idSensor,timeInt,fechaDesde,fechaHasta) {
 	return new Promise( (resolve, reject) => {
-		var location = "/home/alerta7/accessors/public/reportes"
+		var location = config.get('Reportes.location')
 		if(!idGrupo || !idSensor || !timeInt) {
 			reject("Faltan parametros")
 		}

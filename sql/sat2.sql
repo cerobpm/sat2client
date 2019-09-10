@@ -1,3 +1,5 @@
+CREATE USER sat2 WITH PASSWORD 'sat2';
+
 --
 -- PostgreSQL database dump
 --
@@ -1064,3 +1066,5 @@ GRANT USAGE ON SEQUENCE public."sensoresPorEquipo_gid_seq" TO sat2;
 -- PostgreSQL database dump complete
 --
 
+
+-- GRANT SELECT,UPDATE,DELETE,INSERT ON count_by_3h, count_by_day, count_by_month, equipos, geography_columns, geometry_columns , grupos, historicos, raster_columns , raster_overviews, sensores, sensoresPorEquipo TO sat2;
