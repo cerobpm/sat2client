@@ -1,0 +1,119 @@
+Cantidad de registros por intervalo.
+Red: Red Hidrometeorológica Nacional (1).
+Variable: _Bateria (8).
+Día: 2019-04-12
+
+Fecha:                 00:00 03:00 06:00 09:00 12:00 15:00 18:00 21:00
+157 - Abaucán en Tinog     0     0     0     0     0     0     0     0
+164 - A° El Soberbio-P     0     0     0     0     0     0     0     0
+191 - Añatuya-RP 92        0     0     0     0     0     0     0     0
+159 - Aº Batel en Paso     0     0     0     0     0     0     0     0
+3 - Aº Colastiné en Au     0     0     0     0     0     0     0     0
+4 - Aº Del Medio en La     0     0     0     0     0     0     0     0
+58 - Aº Feliciano-Paso     0     0     0     0     0     0     0     0
+12 - Aº Monje en Autop     0     0     0     0     0     0     0     0
+72 - Atuel en El Nihui     0     0     0     0     0     0     0     0
+176 - Buta Ranquil         0     0     0     0     0     0     0     0
+189 - Canal de Dios -      0     0     0     0     0     0     0     0
+83 - Canal Liag - Queb     0     0     0     0     0     0     0     0
+79 - Canal MACAPILLO 	     0     0     0     0     0     0     0     0
+180 - Canal Regulador      0     0     0     0     0     0     0     0
+187 - Carmensa             0     0     0     0     0     0     0     0
+40 - Carrenleufu en Ca     0     0     0     0     0     0     0     0
+64 - Carrenleufu en la     0     0     0     0     0     0     0     0
+67 - Charles Fhur          0     0     0     0     0     0     0     0
+62 - Colorado en Pichi     0     0     0     0     0     0     0     0
+179 - Compuerta Altern     0     0     0     0     0     0     0     0
+185 - Cruz Alta            0     0     0     0     0     0     0     0
+86 - Desaguadero en Ca     0     0     0     0     0     0     0     0
+193 - Faro Punta Delga     0     0     0     0     0     0     0     0
+76 - Faro Recalada Bah     0     0     0     0     0     0     0     0
+78 - Faro Río Negro        0     0     0     0     0     0     0     0
+16 - Futaleufú en Pues     0     0     0     0     0     0     0     0
+41 - Gallegos - Pte. B     0     0     0     0     0     0     0     0
+43 - Gallegos - Toma S     0     0     0     0     0     0     0     0
+37 - HUA HUM - San Mar     0     0     0     0     0     0     0     0
+44 - Iguazú - PERFIL T     0     0     0     0     0     0     0     0
+186 - Intersección Can     0     0     0     0     0     0     0     0
+50 - Lago Argentino en     0     0     0     0     0     0     0     0
+56 - Laguna Ibera en C     0     0     0     0     0     0     0     0
+184 - Laguna La Picasa     0     0     0     0     0     0     0     0
+10 - Laguna Mar Chiqui     0     0     0     0     0     0     0     0
+66 - La Leona              0     0     0     0     0     0     0     0
+65 - La Paulina-Aserra     0     0     0     0     0     0     0     0
+68 - Los Sosa en RP30      0     0     0     0     0     0     0     0
+45 - Miriñay - PASO LE     0     0     0     0     0     0     0     0
+183 - Olivia               0     0     0     0     0     0     0     0
+175 - Parque Nac. los      0     0     0     0     0     0     0     0
+177 - Paso de Indios       0     0     0     0     0     0     0     0
+42 - Penitente - Rincó     0     0     0     0     0     0     0     0
+88 - PN El Chalten         0     0     0     0     0     0     0     0
+188 - Puesto Ugalde        0     0     0     0     0     0     0     0
+46 - Quequen Grande -      0     0     0     0     0     0     0     0
+181 - Río Areco - Carm     0     0     0     0     0     0     0     0
+173 - Río Areco - Puen     0     0     0     0     0     0     0     0
+182 - Río Areco - San      0     0     0     0     0     0     0     0
+21 - Río Arrecifes - A     0     0     0     0     0     0     0     0
+14 - Río Atuel - Algar     0     0     0     0     0     0     0     0
+22 - Río Atuel  El Sos     0     0     0     0     0     0     0     0
+13 - Río Atuel - Paso      0     0     0     0     0     0     0     0
+90 - Río Azul en el Az     0     0     0     0     0     0     0     0
+147 - Río Bermejo - Ba     0     0     0     0     0     0     0     0
+149 - Rio Bermejo-El C     0     0     0     0     0     0     0     0
+53 - Río Bermejo en Po     0     0     0     0     0     0     0     0
+151 - Rio Bermejo-Finc     0     0     0     0     0     0     0     0
+154 - Rio Bermejo-Puer     0     0     0     0     0     0     0     0
+155 - Rio Bermejo-Puer     0     0     0     0     0     0     0     0
+168 - Río Carcarañá en     0     0     0     0     0     0     0     0
+85 - Rio Carrenleufu e     0     0     0     0     0     0     0     0
+240 - Río CHubut - El      0     0     0     0     0     0     0     0
+87 - Río Chubut en Ame     0     0     0     0     0     0     0     0
+57 - Río Chubut en los     0     0     0     0     0     0     0     0
+49 - RIO CHUBUT EN TRE     0     0     0     0     0     0     0     0
+17 - Río Chubut en Val     0     0     0     0     0     0     0     0
+33 - Río Coronda en Co     0     0     0     0     0     0     0     0
+162 - Río Corrientes       0     0     0     0     0     0     0     0
+166 - Río Cuarto en RN     0     0     0     0     0     0     0     0
+224 - Rio de las Vuelt     0     0     0     0     0     0     0     0
+29 - Rio de los Patos      0     0     0     0     0     0     0     0
+91 - Río Dulce Paso de     0     0     0     0     0     0     0     0
+32 - Río Grande en La      0     0     0     0     0     0     0     0
+2 - Río Gualeguaychú e     0     0     0     0     0     0     0     0
+169 - Río Gualeguay en     0     0     0     0     0     0     0     0
+167 - Río Gualeguay Ro     0     0     0     0     0     0     0     0
+71 - Rio Guayquiraró e     0     0     0     0     0     0     0     0
+84 - Río Iguazú en Pue     0     0     0     0     0     0     0     0
+27 - Río Juramento - E     0     0     0     0     0     0     0     0
+20 - Rio Lujan - Lujan     0     0     0     0     0     0     0     0
+70 - Río Lules en Potr     0     0     0     0     0     0     0     0
+61 - Río Manso - Confl     0     0     0     0     0     0     0     0
+63 - Río Mayo - Paso R     0     0     0     0     0     0     0     0
+89 - Río Mendoza en Gu     0     0     0     0     0     0     0     0
+55 - Río Neuquén en Ch     0     0     0     0     0     0     0     0
+6 - Río Paraguay en Pt     0     0     0     0     0     0     0     0
+26 - Río Paraguay - Pt     0     0     0     0     0     0     0     0
+5 - Río Paraná en Corr     0     0     0     0     0     0     0     0
+25 - Río Paraná - Goya     0     0     0     0     0     0     0     0
+23 - Río Paraná - Itat     0     0     0     0     0     0     0     0
+36 - Río Percey Ruta a     0     0     0     0     0     0     0     0
+31 - Río Poti Malal en     0     0     0     0     0     0     0     0
+8 - Río Primero (Suquí     0     0     0     0     0     0     0     0
+39 - Rio Quequentreu e     0     0     0     0     0     0     0     0
+35 - Rio Quinto - Just     0     0     0     0     0     0     0     0
+30 - Río Salado en Cañ     0     0     0     0     0     0     0     0
+19 - Río Salado en San     0     0     0     0     0     0     0     0
+158 - Río Salado - Pin     0     0     0     0     0     0     0     0
+194 - Rio Salado-RN2       0     0     0     0     0     0     0     0
+1 - Río Salado – RP51      0     0     0     0     0     0     0     0
+7 - Río Salto - Salto      0     0     0     0     0     0     0     0
+15 - Río Santa Cruz en     0     0     0     0     0     0     0     0
+9 - Río Segundo (Pluju     0     0     0     0     0     0     0     0
+74 - Río Senguer en Sa     0     0     0     0     0     0     0     0
+192 - Río Senguer Puen     0     0     0     0     0     0     0     0
+163 - Río Tunuyan en V     0     0     0     0     0     0     0     0
+75 - Río Uspallata - U     0     0     0     0     0     0     0     0
+178 - Ruta Provincial      0     0     0     0     0     0     0     0
+174 - Seminario Dioces     0     0     0     0     0     0     0     0
+38 - Senguer - LOS MOL     0     0     0     0     0     0     0     0
+190 - Suncho Corral        0     0     0     0     0     0     0     0
+73 - Tupungato en Punt     0     0     0     0     0     0     0     0

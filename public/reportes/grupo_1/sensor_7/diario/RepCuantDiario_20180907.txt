@@ -1,0 +1,51 @@
+Cantidad de registros por intervalo.
+Red: Red Hidrometeorológica Nacional (1).
+Variable: _Pluviometro (7).
+Día: 2018-09-07
+
+Fecha:                 00:00 03:00 06:00 09:00 12:00 15:00 18:00 21:00
+159 - Aº Batel en Paso     0     0     0     0     0     0     0     0
+58 - Aº Feliciano-Paso     0     0     0     0     0     0     0     0
+72 - Atuel en El Nihui     0     0     0     0     0     0     0     0
+176 - Buta Ranquil         0     0     0     0     0     0     0     0
+64 - Carrenleufu en la     0     0     0     0     0     0     0     0
+67 - Charles Fhur          0     0     0     0     0     0     0     0
+62 - Colorado en Pichi     0     0     0     0     0     0     0     0
+193 - Faro Punta Delga     0     0     0     0     0     0     0     0
+76 - Faro Recalada Bah     0     0     0     0     0     0     0     0
+78 - Faro Río Negro        0     0     0     0     0     0     0     0
+186 - Intersección Can     0     0     0     0     0     0     0     0
+50 - Lago Argentino en     0     0     0     0     0     0     0     0
+56 - Laguna Ibera en C     0     0     0     0     0     0     0     0
+66 - La Leona              0     0     0     0     0     0     0     0
+65 - La Paulina-Aserra     0     0     0     0     0     0     0     0
+68 - Los Sosa en RP30      0     0     0     0     0     0     0     0
+88 - PN El Chalten         0     0     0     0     0     0     0     0
+181 - Río Areco - Carm     0     0     0     0     0     0     0     0
+173 - Río Areco - Puen     0     0     0     0     0     0     0     0
+182 - Río Areco - San      0     0     0     0     0     0     0     0
+90 - Río Azul en el Az     0     0     0     0     0     0     0     0
+147 - Río Bermejo - Ba     0     0     0     0     0     0     0     0
+149 - Rio Bermejo-El C     0     0     0     0     0     0     0     0
+150 - Rio Bermejo-Emba     0     0     0     0     0     0     0     0
+53 - Río Bermejo en Po     0     0     0     0     0     0     0     0
+151 - Rio Bermejo-Finc     0     0     0     0     0     0     0     0
+152 - Rio Bermejo-Puen     0     0     0     0     0     0     0     0
+154 - Rio Bermejo-Puer     0     0     0     0     0     0     0     0
+155 - Rio Bermejo-Puer     0     0     0     0     0     0     0     0
+156 - Rio Bermejo-Sauz     0     0     0     0     0     0     0     0
+240 - Río CHubut - El      0     0     0     0     0     0     0     0
+57 - Río Chubut en los     0     0     0     0     0     0     0     0
+148 - Rio Grande Tarij     0     0     0     0     0     0     0     0
+71 - Rio Guayquiraró e     0     0     0     0     0     0     0     0
+70 - Río Lules en Potr     0     0     0     0     0     0     0     0
+61 - Río Manso - Confl     0     0     0     0     0     0     0     0
+63 - Río Mayo - Paso R     0     0     0     0     0     0     0     0
+89 - Río Mendoza en Gu     0     0     0     0     0     0     0     0
+55 - Río Neuquén en Ch     0     0     0     0     0     0     0     0
+194 - Rio Salado-RN2       0     0     0     0     0     0     0     0
+153 - Rio San Francisc     0     0     0     0     0     0     0     0
+74 - Río Senguer en Sa     0     0     0     0     0     0     0     0
+163 - Río Tunuyan en V     0     0     0     0     0     0     0     0
+75 - Río Uspallata - U     0     0     0     0     0     0     0     0
+73 - Tupungato en Punt     0     0     0     0     0     0     0     0

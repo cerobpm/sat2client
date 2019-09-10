@@ -1,0 +1,122 @@
+nombreGrupo=Red Hidrometeorológica Nacional
+idGrupo=1
+nombreSensor=_Bateria
+idSensor=8
+intervaloTemporal=mensual
+fecha=2019
+
+
+Fecha,01,02,03,04,05,06,07,08,09,10,11,12
+157 - Abaucán en Tinog,0,0,0,0,0,0,164,214,15
+164 - A° El Soberbio-P,0,0,0,0,0,0,28,49,22
+191 - Añatuya-RP 92,0,0,0,0,0,0,0,0,0
+159 - Aº Batel en Paso,0,0,0,0,0,0,80,90,15
+3 - Aº Colastiné en Au,0,0,0,0,0,254,450,503,87
+4 - Aº Del Medio en La,0,1921,1133,0,0,464,744,563,18,0,0,0
+58 - Aº Feliciano-Paso,0,0,0,0,25,126,183,177,22
+12 - Aº Monje en Autop,0,0,0,0,1534,47,617,503,0
+72 - Atuel en El Nihui,0,0,0,0,101,0,677,578,74
+176 - Buta Ranquil,0,0,0,0,0,0,0,239,17
+189 - Canal de Dios - ,0,0,0,0,0,0,0,290,33
+83 - Canal Liag - Queb,0,0,0,0,0,30,36,201,17
+79 - Canal MACAPILLO 	,0,0,0,0,1,174,184,184,22
+180 - Canal Regulador ,0,0,0,0,0,0,2,120,14
+187 - Carmensa,0,0,0,0,0,0,0,180,22
+40 - Carrenleufu en Ca,0,0,0,31,183,131,0,0,0
+64 - Carrenleufu en la,0,0,0,0,15,111,163,179,19
+67 - Charles Fhur,0,0,0,0,0,35,25,172,21
+62 - Colorado en Pichi,0,0,0,0,49,110,178,170,22
+179 - Compuerta Altern,0,0,0,0,0,0,2,120,14
+185 - Cruz Alta,0,0,0,0,0,0,33,250,0
+86 - Desaguadero en Ca,0,0,0,0,43,12,86,180,22
+193 - Faro Punta Delga,0,0,0,0,0,0,0,0,0
+76 - Faro Recalada Bah,0,0,0,0,0,0,110,0,0
+78 - Faro Río Negro,0,0,0,0,0,0,0,409,68
+16 - Futaleufú en Pues,0,0,0,0,0,0,0,0,0
+41 - Gallegos - Pte. B,0,0,0,4,0,0,0,0,0
+43 - Gallegos - Toma S,0,0,0,29,16,0,20,169,22
+37 - HUA HUM - San Mar,0,0,0,11,37,7,0,48,21
+44 - Iguazú - PERFIL T,0,0,0,28,0,0,0,36,21
+186 - Intersección Can,0,0,0,0,0,0,0,727,86
+50 - Lago Argentino en,0,0,0,0,0,0,93,738,87
+56 - Laguna Ibera en C,0,0,0,0,0,16,0,364,86
+184 - Laguna La Picasa,0,0,0,0,0,0,0,0,0
+10 - Laguna Mar Chiqui,0,599,675,673,619,546,616,630,85
+66 - La Leona,0,0,0,0,0,63,31,120,0
+65 - La Paulina-Aserra,0,0,0,0,45,59,144,140,15
+68 - Los Sosa en RP30 ,0,0,0,0,3,20,183,177,22
+45 - Miriñay - PASO LE,0,0,0,0,0,171,186,180,22
+183 - Olivia,0,0,0,0,0,0,16,0,0
+175 - Parque Nac. los ,0,0,0,0,0,0,2,120,14
+177 - Paso de Indios,0,0,0,0,0,0,2,120,14
+42 - Penitente - Rincó,0,0,0,0,42,17,24,80,19
+88 - PN El Chalten,0,0,0,0,0,55,31,170,19
+188 - Puesto Ugalde,0,0,0,0,0,0,0,173,18
+46 - Quequen Grande - ,0,0,0,10,181,174,28,138,21
+181 - Río Areco - Carm,0,0,0,0,0,0,2,114,12
+173 - Río Areco - Puen,0,0,0,0,0,0,0,119,13
+182 - Río Areco - San ,0,0,0,0,0,0,16,102,14
+21 - Río Arrecifes - A,0,0,1108,2584,2952,2665,2881,2789,344
+14 - Río Atuel - Algar,0,0,0,0,0,0,0,182,22
+22 - Río Atuel  El Sos,0,0,0,0,0,0,0,0,0
+13 - Río Atuel - Paso ,0,0,0,0,0,0,0,180,21
+90 - Río Azul en el Az,0,0,0,0,0,51,0,123,22
+147 - Río Bermejo - Ba,0,0,0,0,0,0,1,183,20
+149 - Rio Bermejo-El C,0,0,0,0,0,0,1,183,20
+53 - Río Bermejo en Po,0,0,0,0,0,0,123,622,87
+151 - Rio Bermejo-Finc,0,0,0,0,0,0,1,183,20
+154 - Rio Bermejo-Puer,0,0,0,0,0,0,1,183,20
+155 - Rio Bermejo-Puer,0,0,0,0,0,0,1,162,20
+168 - Río Carcarañá en,0,0,0,0,0,0,12,550,87
+85 - Rio Carrenleufu e,0,0,0,0,3,4,91,142,22
+240 - Río CHubut - El ,0,0,0,0,0,0,0,0,12
+87 - Río Chubut en Ame,0,0,0,0,0,2,34,123,22
+57 - Río Chubut en los,0,0,0,0,18,109,10,0,0
+49 - RIO CHUBUT EN TRE,0,0,0,0,1201,583,712,683,82
+17 - Río Chubut en Val,0,1304,510,0,0,0,0,316,192
+33 - Río Coronda en Co,0,0,0,20,147,279,486,369,18
+162 - Río Corrientes  ,0,0,0,0,0,0,30,67,22
+166 - Río Cuarto en RN,0,0,0,0,0,0,10,192,12
+224 - Rio de las Vuelt,0,0,0,0,0,0,0,30,21
+29 - Rio de los Patos ,0,0,0,2,138,172,184,181,22
+91 - Río Dulce Paso de,0,0,0,0,0,30,8,180,22
+32 - Río Grande en La ,0,0,0,104,142,175,185,176,22
+2 - Río Gualeguaychú e,823,281,0,705,339,0,0,0,0
+169 - Río Gualeguay en,0,0,0,0,0,0,26,262,24
+167 - Río Gualeguay Ro,0,0,0,0,0,0,8,158,25
+71 - Rio Guayquiraró e,0,0,0,0,236,349,682,665,79
+84 - Río Iguazú en Pue,0,0,0,0,40,34,186,176,22
+27 - Río Juramento - E,0,0,297,2780,2885,2603,2799,2708,335
+20 - Rio Lujan - Lujan,0,0,970,2873,2973,2695,2894,2695,348
+70 - Río Lules en Potr,0,0,0,0,35,23,129,124,16
+61 - Río Manso - Confl,0,0,0,0,0,0,0,49,21
+63 - Río Mayo - Paso R,0,0,0,0,19,0,0,43,22
+89 - Río Mendoza en Gu,0,0,0,0,0,36,0,174,22
+55 - Río Neuquén en Ch,0,0,0,0,0,14,4,63,1
+6 - Río Paraguay en Pt,583,2618,2405,2715,1298,14,186,178,22
+26 - Río Paraguay - Pt,0,0,0,0,30,178,186,165,22
+5 - Río Paraná en Corr,579,1753,2913,1869,716,646,655,650,85
+25 - Río Paraná - Goya,0,0,657,2849,2881,2500,2159,1789,275
+23 - Río Paraná - Itat,0,0,774,2734,1202,674,719,685,83
+36 - Río Percey Ruta a,0,0,0,29,13,102,113,170,22
+31 - Río Poti Malal en,0,0,0,104,181,129,111,143,22
+8 - Río Primero (Suquí,0,0,0,0,0,0,0,165,15
+39 - Rio Quequentreu e,0,0,0,2,0,34,150,178,22
+35 - Rio Quinto - Just,0,0,0,30,0,342,338,34,26
+30 - Río Salado en Cañ,0,0,0,2,62,118,163,177,22
+19 - Río Salado en San,0,236,1008,1376,2952,2628,2778,2661,343
+158 - Río Salado - Pin,0,0,0,0,0,0,42,13,22
+194 - Rio Salado-RN2,0,0,0,0,0,0,17,111,1
+1 - Río Salado – RP51 ,0,0,0,0,0,0,131,31,0
+7 - Río Salto - Salto,0,0,432,330,0,777,2684,275,61
+15 - Río Santa Cruz en,0,0,0,0,0,0,0,0,49
+9 - Río Segundo (Pluju,0,366,723,683,653,532,547,435,85
+74 - Río Senguer en Sa,0,0,0,0,1271,873,2879,1786,87
+192 - Río Senguer Puen,0,0,0,0,0,0,1094,2725,342
+163 - Río Tunuyan en V,0,0,0,0,0,0,23,21,5
+75 - Río Uspallata - U,0,0,0,0,101,0,0,0,0
+178 - Ruta Provincial ,0,0,0,0,0,0,0,357,86
+174 - Seminario Dioces,0,0,0,0,0,0,28,100,13
+38 - Senguer - LOS MOL,0,0,0,55,167,62,0,12,17
+190 - Suncho Corral,0,0,0,0,0,0,1,356,37
+73 - Tupungato en Punt,0,0,0,0,100,0,83,0,0

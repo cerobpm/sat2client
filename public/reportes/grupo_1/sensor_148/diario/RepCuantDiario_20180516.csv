@@ -1,0 +1,10 @@
+nombreGrupo=Red Hidrometeorológica Nacional
+idGrupo=1
+nombreSensor=_Nivel Radar
+idSensor=148
+intervaloTemporal=03:00
+fecha=2018-05-16
+
+
+Fecha,00:00,03:00,06:00,09:00,12:00,15:00,18:00,21:00
+163 - Río Tunuyan en V,0,0,0,0,0,0,0,0

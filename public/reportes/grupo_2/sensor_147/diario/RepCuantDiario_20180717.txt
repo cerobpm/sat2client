@@ -1,0 +1,11 @@
+Cantidad de registros por intervalo.
+Red: Prueba (2).
+Variable: Limnimetro_20 (147).
+Día: 2018-07-17
+
+Fecha:                 00:00 03:00 06:00 09:00 12:00 15:00 18:00 21:00
+235 - ZPrueba_INA_1166     0     0     0     0     0     0     0     0
+236 - ZPrueba_INA_1166     0     0     0     0     0     0     0     0
+237 - ZPrueba_INA_1166     0     0     0     0     0     0     0     0
+238 - ZPrueba_INA_1166     0     0     0     0     0     0     0     0
+239 - ZPrueba_INA_1167     0     0     0     0     0     0     0     0

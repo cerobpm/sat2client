@@ -1,0 +1,12 @@
+nombreGrupo=SiNaRaMe
+idGrupo=3
+nombreSensor=_Bateria
+idSensor=8
+intervaloTemporal=mensual
+fecha=2018
+
+
+Fecha,    01,    02,    03,    04,    05,    06,    07,    08,    09,    10,    11,    12
+104 - RMA3_PLA,0,0,0,0,0,0,0,0,0,0,0,0
+130 - RMA8_PIB,0,0,0,0,0,0,0,0,0,0,0,0
+131 - RMA9_RAD,0,0,0,0,0,0,0,0,0,0,0,0

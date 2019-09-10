@@ -1,0 +1,13 @@
+Cantidad de registros por mes.
+Red: Prueba (2).
+Variable: _Nivel de Nieve (149).
+Año: 2019
+
+Fecha:                    01    02    03    04    05    06    07    08    09    10    11    12
+204 - ZPrueba_INA_O111     0     0     0     0     0     0     0     0     0
+199 - ZPrueba_INA_O111     0     0     0     0     0     0     0     0     0
+196 - ZPrueba_INA_O111     0     0     0     0     0     0     0     0     0
+197 - ZPrueba_INA_O111     0     0     0     0     0     0     0     0     0
+198 - ZPrueba_INA_O112     0     0     0     0     0     0     0     0     0
+205 - ZPrueba_INA_O112     0     0     0     0     0     0     0     0     0
+206 - ZPrueba_INA_O112     0     0     0     0     0     0     0     0     0

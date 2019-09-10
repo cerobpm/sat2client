@@ -1,0 +1,12 @@
+Cantidad de registros por intervalo.
+Red: Prueba (2).
+Variable: _Nivel Radar (148).
+Día: 2019-07-01
+
+Fecha:                 00:00 03:00 06:00 09:00 12:00 15:00 18:00 21:00
+218 - ZPrueba_INA_1117     0     0     0     0     0     0     0     0
+222 - ZPrueba_INA_1118     0     0     0     0     0     0     0     0
+219 - ZPrueba_INA_1118     0     0     0     0     0     0     0     0
+220 - ZPrueba_INA_1119     0     0     0     0     0     0     0     0
+221 - ZPrueba_INA_1119     0     0     0     0     0     0     0     0
+223 - ZPrueba_INA_1120     0     0     0     0     0     0     0     0

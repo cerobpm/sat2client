@@ -1,0 +1,12 @@
+nombreGrupo=Prueba
+idGrupo=2
+nombreSensor=Limnimetro_10bA
+idSensor=162
+intervaloTemporal=03:00
+fecha=2018-07-04
+
+
+Fecha,00:00,03:00,06:00,09:00,12:00,15:00,18:00,21:00
+28 - ZEstacion de prue,0,0,0,0,0,0,0,0
+203 - ZPrueba LIM Coma,0,0,0,0,0,0,0,0
+200 - ZPrueba P Lim 44,0,0,0,0,0,0,0,0

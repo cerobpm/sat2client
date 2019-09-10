@@ -1,0 +1,10 @@
+nombreGrupo=Red Hidrometeorológica Nacional
+idGrupo=1
+nombreSensor=Limnimetro_20
+idSensor=147
+intervaloTemporal=03:00
+fecha=2018-04-05
+
+
+Fecha,00:00,03:00,06:00,09:00,12:00,15:00,18:00,21:00
+164 - A° El Soberbio-P,0,0,0,0,0,0,0,0

@@ -1,0 +1,16 @@
+nombreGrupo=Prueba
+idGrupo=2
+nombreSensor=_Nivel de Nieve
+idSensor=149
+intervaloTemporal=03:00
+fecha=2019-01-23
+
+
+Fecha, 00:0, 03:0, 06:0, 09:0, 12:0, 15:0, 18:0, 21:0
+204 - ZPrueba_INA_O111,0,0,0,0,0,0,0,0
+199 - ZPrueba_INA_O111,0,0,0,0,0,0,0,0
+196 - ZPrueba_INA_O111,0,0,0,0,0,0,0,0
+197 - ZPrueba_INA_O111,0,0,0,0,0,0,0,0
+198 - ZPrueba_INA_O112,0,0,0,0,0,0,0,0
+205 - ZPrueba_INA_O112,0,0,0,0,0,0,0,0
+206 - ZPrueba_INA_O112,0,0,0,0,0,0,0,0

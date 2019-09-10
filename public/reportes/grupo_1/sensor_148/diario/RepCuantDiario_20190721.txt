@@ -1,0 +1,7 @@
+Cantidad de registros por intervalo.
+Red: Red Hidrometeorológica Nacional (1).
+Variable: _Nivel Radar (148).
+Día: 2019-07-21
+
+Fecha:                 00:00 03:00 06:00 09:00 12:00 15:00 18:00 21:00
+163 - Río Tunuyan en V     0     0     0     0     0     0     0     0

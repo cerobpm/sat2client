@@ -1,0 +1,13 @@
+Cantidad de registros por intervalo.
+Red: Prueba (2).
+Variable: _Nivel de Nieve (149).
+Día: 2019-08-05
+
+Fecha:                 00:00 03:00 06:00 09:00 12:00 15:00 18:00 21:00
+204 - ZPrueba_INA_O111     0     0     0     0     0     0     0     0
+199 - ZPrueba_INA_O111     0     0     0     0     0     0     0     0
+196 - ZPrueba_INA_O111     0     0     0     0     0     0     0     0
+197 - ZPrueba_INA_O111     0     0     0     0     0     0     0     0
+198 - ZPrueba_INA_O112     0     0     0     0     0     0     0     0
+205 - ZPrueba_INA_O112     0     0     0     0     0     0     0     0
+206 - ZPrueba_INA_O112     0     0     0     0     0     0     0     0

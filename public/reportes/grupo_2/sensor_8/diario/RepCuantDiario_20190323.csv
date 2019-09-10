@@ -1,0 +1,65 @@
+nombreGrupo=Prueba
+idGrupo=2
+nombreSensor=_Bateria
+idSensor=8
+intervaloTemporal=03:00
+fecha=2019-03-23
+
+
+Fecha,00:00,03:00,06:00,09:00,12:00,15:00,18:00,21:00
+28 - ZEstacion de prue,0,0,0,0,0,0,0,0
+47 - ZPrueba 801,0,0,0,0,0,0,0,0
+48 - ZPrueba 802,0,0,0,0,0,0,0,0
+207 - ZPrueba EM10,0,0,0,0,0,0,0,0
+209 - ZPrueba EM12,0,0,0,0,0,0,0,0
+212 - ZPrueba EM 13,0,0,0,0,0,0,0,0
+213 - ZPrueba EM 14,0,0,0,0,0,0,0,0
+214 - ZPrueba EM 15,0,0,0,0,0,0,0,0
+210 - ZPrueba EM16,0,0,0,0,0,0,0,0
+211 - ZPrueba EM17,0,0,0,0,0,0,0,0
+77 - ZPrueba EM 7,0,0,0,0,0,0,0,0
+51 - ZPrueba EMA 1,0,0,0,0,0,0,0,0
+60 - ZPrueba EMA 10,0,0,0,0,0,0,0,0
+69 - ZPrueba EMA 19,0,0,0,0,0,0,0,0
+52 - ZPrueba EMA 2,0,0,0,0,0,0,0,0
+217 - ZPrueba EMA 28,0,0,0,0,0,0,0,0
+54 - *ZPrueba EMA 4,0,0,0,0,0,0,0,0
+59 - ZPrueba EMA 9,0,0,0,0,0,0,0,0
+218 - ZPrueba_INA_1117,0,0,0,0,0,0,0,0
+222 - ZPrueba_INA_1118,0,0,0,0,0,0,0,0
+219 - ZPrueba_INA_1118,0,0,0,0,0,0,0,0
+220 - ZPrueba_INA_1119,0,0,0,0,0,0,0,0
+221 - ZPrueba_INA_1119,0,0,0,0,0,0,0,0
+223 - ZPrueba_INA_1120,0,0,0,0,0,0,0,0
+225 - ZPrueba_INA_1165,0,0,0,0,0,0,0,0
+226 - ZPrueba_INA_1165,0,0,0,0,0,0,0,0
+227 - ZPrueba_INA_1165,0,0,0,0,0,0,0,0
+228 - ZPrueba_INA_1165,0,0,0,0,0,0,0,0
+229 - ZPrueba_INA_1166,0,0,0,0,0,0,0,0
+230 - ZPrueba_INA_1166,0,0,0,0,0,0,0,0
+231 - ZPrueba_INA_1166,0,0,0,0,0,0,0,0
+232 - ZPrueba_INA_1166,0,0,0,0,0,0,0,0
+233 - ZPrueba_INA_1166,0,0,0,0,0,0,0,0
+234 - ZPrueba_INA_1166,0,0,0,0,0,0,0,0
+235 - ZPrueba_INA_1166,0,0,0,0,0,0,0,0
+236 - ZPrueba_INA_1166,0,0,0,0,0,0,0,0
+237 - ZPrueba_INA_1166,0,0,0,0,0,0,0,0
+238 - ZPrueba_INA_1166,0,0,0,0,0,0,0,0
+239 - ZPrueba_INA_1167,0,0,0,0,0,0,0,0
+204 - ZPrueba_INA_O111,0,0,0,0,0,0,0,0
+199 - ZPrueba_INA_O111,0,0,0,0,0,0,0,0
+196 - ZPrueba_INA_O111,0,0,0,0,0,0,0,0
+197 - ZPrueba_INA_O111,0,0,0,0,0,0,0,0
+198 - ZPrueba_INA_O112,0,0,0,0,0,0,0,0
+205 - ZPrueba_INA_O112,0,0,0,0,0,0,0,0
+206 - ZPrueba_INA_O112,0,0,0,0,0,0,0,0
+216 - ZPrueba LIM 28,0,0,0,0,0,0,0,0
+215 - ZPrueba LIM 70,0,0,0,0,0,0,0,0
+203 - ZPrueba LIM Coma,0,0,0,0,0,0,0,0
+160 - ZPrueba_O11202,0,0,0,0,0,0,0,0
+24 - ZPrueba - Orbcomm,0,0,0,0,0,0,0,0
+200 - ZPrueba P Lim 44,0,0,0,0,0,0,0,0
+201 - ZPrueba P Lim 45,0,0,0,0,0,0,0,0
+82 - ZPrueba P LIM 53,0,0,0,0,0,0,0,0
+92 - ZPrueba P LIM 65,0,0,0,0,0,0,0,0
+171 - ZPrueba P LIM 66,0,0,0,0,0,0,0,0

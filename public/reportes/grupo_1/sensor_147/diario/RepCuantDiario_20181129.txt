@@ -1,0 +1,7 @@
+Cantidad de registros por intervalo.
+Red: Red Hidrometeorológica Nacional (1).
+Variable: Limnimetro_20 (147).
+Día: 2018-11-29
+
+Fecha:                 00:00 03:00 06:00 09:00 12:00 15:00 18:00 21:00
+164 - A° El Soberbio-P     0     0     0     0     0     0     0     0

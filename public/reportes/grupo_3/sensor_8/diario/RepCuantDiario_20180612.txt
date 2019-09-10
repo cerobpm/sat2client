@@ -1,0 +1,9 @@
+Cantidad de registros por intervalo.
+Red: SiNaRaMe (3).
+Variable: _Bateria (8).
+Día: 2018-06-12
+
+Fecha:                 00:00 03:00 06:00 09:00 12:00 15:00 18:00 21:00
+104 - RMA3_PLA             0     0     0     0     0     0     0     0
+130 - RMA8_PIB             0     0     0     0     0     0     0     0
+131 - RMA9_RAD             0     0     0     0     0     0     0     0

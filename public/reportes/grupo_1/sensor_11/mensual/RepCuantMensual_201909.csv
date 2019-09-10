@@ -1,0 +1,31 @@
+nombreGrupo=Red Hidrometeorológica Nacional
+idGrupo=1
+nombreSensor=_Veleta
+idSensor=11
+intervaloTemporal=diario
+fecha=2019-09
+
+
+Fecha,    01,    02,    03,    04,    05,    06,    07,    08,    09,    10,    11,    12,    13,    14,    15,    16,    17,    18,    19,    20,    21,    22,    23,    24,    25,    26,    27,    28,    29,    30
+72 - Atuel en El Nihui,24,24,24,3,0,0,0,0,0,0,0
+64 - Carrenleufu en la,5,6,5,5,6,6,6,6,5,3,0
+62 - Colorado en Pichi,5,6,6,6,6,6,6,6,6,2,0
+193 - Faro Punta Delga,0,0,0,0,0,0,0,0,0,0,0
+76 - Faro Recalada Bah,0,0,0,0,0,0,0,0,23,2,0
+78 - Faro Río Negro,24,24,21,0,0,0,0,0,0,0,0
+50 - Lago Argentino en,24,24,16,0,0,0,0,0,0,0,0
+65 - La Paulina-Aserra,5,4,3,6,5,5,7,3,5,3,0
+68 - Los Sosa en RP30 ,6,6,6,6,6,6,6,6,6,3,0
+88 - PN El Chalten,0,0,5,4,6,5,6,6,6,3,0
+53 - Río Bermejo en Po,24,24,24,24,24,24,24,24,23,10,0
+240 - Río CHubut - El ,3,4,4,4,3,4,4,4,4,1,0
+57 - Río Chubut en los,0,0,0,0,0,0,0,0,0,0,0
+71 - Rio Guayquiraró e,24,0,24,23,23,24,24,23,18,0,0
+70 - Río Lules en Potr,5,4,3,6,4,5,2,3,4,1,0
+63 - Río Mayo - Paso R,6,6,6,6,6,6,6,4,0,0,0
+89 - Río Mendoza en Gu,6,6,6,6,6,6,6,6,6,3,0
+55 - Río Neuquén en Ch,3,1,2,4,0,5,0,2,1,0,0
+74 - Río Senguer en Sa,24,24,24,24,24,24,24,24,24,10,0
+163 - Río Tunuyan en V,1,0,1,1,1,0,1,0,0,0,0
+75 - Río Uspallata - U,0,0,0,0,0,0,0,0,0,0,0
+73 - Tupungato en Punt,0,0,0,0,0,0,23,5,0,0,0

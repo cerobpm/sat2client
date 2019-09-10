@@ -1,0 +1,24 @@
+Cantidad de registros por intervalo.
+Red: Prueba (2).
+Variable: _Temp Ambiente (12).
+Día: 2018-10-03
+
+Fecha:                 00:00 03:00 06:00 09:00 12:00 15:00 18:00 21:00
+18 - Prueba - GSM          0     0     0     0     0     0     0     0
+28 - ZEstacion de prue     0     0     0     0     0     0     0     0
+207 - ZPrueba EM10         0     0     0     0     0     0     0     0
+209 - ZPrueba EM12         0     0     0     0     0     0     0     0
+212 - ZPrueba EM 13        0     0     0     0     0     0     0     0
+213 - ZPrueba EM 14        0     0     0     0     0     0     0     0
+214 - ZPrueba EM 15        0     0     0     0     0     0     0     0
+210 - ZPrueba EM16         0     0     0     0     0     0     0     0
+211 - ZPrueba EM17         0     0     0     0     0     0     0     0
+77 - ZPrueba EM 7          0     0     0     0     0     0     0     0
+51 - ZPrueba EMA 1         0     0     0     0     0     0     0     0
+60 - ZPrueba EMA 10        0     0     0     0     0     0     0     0
+69 - ZPrueba EMA 19        0     0     0     0     0     0     0     0
+52 - ZPrueba EMA 2         0     0     0     0     0     0     0     0
+217 - ZPrueba EMA 28       0     0     0     0     0     0     0     0
+54 - *ZPrueba EMA 4        0     0     0     0     0     0     0     0
+59 - ZPrueba EMA 9         0     0     0     0     0     0     0     0
+160 - ZPrueba_O11202       0     0     0     0     0     0     0     0

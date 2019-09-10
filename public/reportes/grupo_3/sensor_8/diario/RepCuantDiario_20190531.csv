@@ -1,0 +1,12 @@
+nombreGrupo=SiNaRaMe
+idGrupo=3
+nombreSensor=_Bateria
+idSensor=8
+intervaloTemporal=03:00
+fecha=2019-05-31
+
+
+Fecha, 00:0, 03:0, 06:0, 09:0, 12:0, 15:0, 18:0, 21:0
+104 - RMA3_PLA,0,0,0,0,0,0,0,0
+130 - RMA8_PIB,0,0,0,0,0,0,0,0
+131 - RMA9_RAD,0,0,0,0,0,0,0,0

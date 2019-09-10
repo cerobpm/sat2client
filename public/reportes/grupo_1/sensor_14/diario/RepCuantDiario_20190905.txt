@@ -1,0 +1,28 @@
+Cantidad de registros por intervalo.
+Red: Red Hidrometeorológica Nacional (1).
+Variable: _Rad Solar (14).
+Día: 2019-09-05
+
+Fecha:                 00:00 03:00 06:00 09:00 12:00 15:00 18:00 21:00
+72 - Atuel en El Nihui     0     0     0     0     0     0     0     0
+64 - Carrenleufu en la     0     0     0     0     0     0     0     0
+62 - Colorado en Pichi     0     0     0     0     0     0     0     0
+193 - Faro Punta Delga     0     0     0     0     0     0     0     0
+76 - Faro Recalada Bah     0     0     0     0     0     0     0     0
+78 - Faro Río Negro        0     0     0     0     0     0     0     0
+50 - Lago Argentino en     0     0     0     0     0     0     0     0
+65 - La Paulina-Aserra     0     0     0     0     0     0     0     0
+68 - Los Sosa en RP30      0     0     0     0     0     0     0     0
+88 - PN El Chalten         0     0     0     0     0     0     0     0
+53 - Río Bermejo en Po     0     0     0     0     0     0     0     0
+240 - Río CHubut - El      0     0     0     0     0     0     0     0
+57 - Río Chubut en los     0     0     0     0     0     0     0     0
+71 - Rio Guayquiraró e     0     0     0     0     0     0     0     0
+70 - Río Lules en Potr     0     0     0     0     0     0     0     0
+63 - Río Mayo - Paso R     0     0     0     0     0     0     0     0
+89 - Río Mendoza en Gu     0     0     0     0     0     0     0     0
+55 - Río Neuquén en Ch     0     0     0     0     0     0     0     0
+74 - Río Senguer en Sa     0     0     0     0     0     0     0     0
+163 - Río Tunuyan en V     0     0     0     0     0     0     0     0
+75 - Río Uspallata - U     0     0     0     0     0     0     0     0
+73 - Tupungato en Punt     0     0     0     0     0     0     0     0

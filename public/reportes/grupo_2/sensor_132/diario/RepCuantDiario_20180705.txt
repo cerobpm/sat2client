@@ -1,0 +1,7 @@
+Cantidad de registros por intervalo.
+Red: Prueba (2).
+Variable: __Bat_15b (132).
+Día: 2018-07-05
+
+Fecha:                 00:00 03:00 06:00 09:00 12:00 15:00 18:00 21:00
+18 - Prueba - GSM          0     0     0     0     0     0     0     0

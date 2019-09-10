@@ -1,0 +1,31 @@
+Cantidad de registros por día.
+Red: Red Hidrometeorológica Nacional (1).
+Variable: Limnimetro_10bA (162).
+Mes: 2019-09
+
+Fecha:                    01    02    03    04    05    06    07    08    09    10    11    12    13    14    15    16    17    18    19    20    21    22    23    24    25    26    27    28    29    30
+3 - Aº Colastiné en Au    24    24    24    24    24    24    24    24    24    10     0
+4 - Aº Del Medio en La     4     6     5     5     4     9     5     4     4     3     0
+12 - Aº Monje en Autop     0     0     0     0    12    24    24    19     0     0     0
+179 - Compuerta Altern    24    24    24    24    24    24    24    22    24     7     0
+10 - Laguna Mar Chiqui    24    24    22    23    22    24    21    23    24    10     0
+21 - Río Arrecifes - A    94    96    96    96    96    96    94    94    94    38     0
+22 - Río Atuel  El Sos     0     0     0     0     0     0     0     0     0     0     0
+49 - RIO CHUBUT EN TRE    24    21    23    23    23    24    24    24    22    10     0
+17 - Río Chubut en Val    96    95     1     0     0     0     0     0     0     0     0
+2 - Río Gualeguaychú e     0     0     0     0     0     0     0     0     0     0     0
+27 - Río Juramento - E    95    90    92    94    91    92    94    90    93    38     0
+20 - Rio Lujan - Lujan    96    96    96    96    96    96    96    96    96    40     0
+6 - Río Paraguay en Pt     6     6     6     6     6     6     6     6     6     3     0
+26 - Río Paraguay - Pt     6     6     6     6     6     6     6     6     6     3     0
+5 - Río Paraná en Corr    23    24    23    24    22    24    22    23    21    10     0
+25 - Río Paraná - Goya    96    94    85     0     0     0    83    95    64    33     0
+23 - Río Paraná - Itat    23    23    22    24    24    24    24    24    22    10     0
+8 - Río Primero (Suquí     8     7     0     0     0     0     0     0     0     0     0
+35 - Rio Quinto - Just    24     2     0     0     0     0     0     0     0     0     0
+19 - Río Salado en San    96    94    96    96    96    96    96    96    96    25     0
+1 - Río Salado – RP51      0     0     0     0     0     0     0     0     0     0     0
+7 - Río Salto - Salto     24    24    13     8    24    24    21    24    24    10     0
+15 - Río Santa Cruz en     0    11    24    24    24    24    24    24    24    10     0
+9 - Río Segundo (Pluju    24    24    22    24    22    23    22    24    22     9     0
+192 - Río Senguer Puen    94    94    94    95    93    95    92    95    91    38     0

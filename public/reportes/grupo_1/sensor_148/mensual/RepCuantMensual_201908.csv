@@ -1,0 +1,10 @@
+nombreGrupo=Red Hidrometeorológica Nacional
+idGrupo=1
+nombreSensor=_Nivel Radar
+idSensor=148
+intervaloTemporal=diario
+fecha=2019-08
+
+
+Fecha,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+163 - Río Tunuyan en V,0,2,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0

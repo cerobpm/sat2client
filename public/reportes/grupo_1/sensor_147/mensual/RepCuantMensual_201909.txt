@@ -1,0 +1,7 @@
+Cantidad de registros por día.
+Red: Red Hidrometeorológica Nacional (1).
+Variable: Limnimetro_20 (147).
+Mes: 2019-09
+
+Fecha:                    01    02    03    04    05    06    07    08    09    10    11    12    13    14    15    16    17    18    19    20    21    22    23    24    25    26    27    28    29    30
+164 - A° El Soberbio-P     6     6     6     6     6     6     6     6     6     3     0

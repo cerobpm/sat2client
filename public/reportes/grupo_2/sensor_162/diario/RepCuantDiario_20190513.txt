@@ -1,0 +1,9 @@
+Cantidad de registros por intervalo.
+Red: Prueba (2).
+Variable: Limnimetro_10bA (162).
+Día: 2019-05-13
+
+Fecha:                 00:00 03:00 06:00 09:00 12:00 15:00 18:00 21:00
+28 - ZEstacion de prue     0     0     0     0     0     0     0     0
+203 - ZPrueba LIM Coma     0     0     0     0     0     0     0     0
+200 - ZPrueba P Lim 44     0     0     0     0     0     0     0     0

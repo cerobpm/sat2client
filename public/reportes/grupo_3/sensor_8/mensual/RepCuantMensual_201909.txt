@@ -1,0 +1,9 @@
+Cantidad de registros por día.
+Red: SiNaRaMe (3).
+Variable: _Bateria (8).
+Mes: 2019-09
+
+Fecha:                    01    02    03    04    05    06    07    08    09    10    11    12    13    14    15    16    17    18    19    20    21    22    23    24    25    26    27    28    29    30
+104 - RMA3_PLA             4     4     4     4     4     4     4     4     4     2     0
+130 - RMA8_PIB             4     4     4     4     4     4     4     4     4     2     0
+131 - RMA9_RAD             4     2     2     4     2     2     4     4     4     2     0
