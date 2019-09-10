@@ -1,5 +1,0 @@
-Initialize sat2 object
-statusCode: 200
-{ autenticado: true, idCliente: 5, novedades: '' }
-falló autenticación
-undefined
